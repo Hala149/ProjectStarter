@@ -50,9 +50,6 @@ p {
     font-size: 1em;
     line-height: 1.8;
 }
-a{
-color: #b7962a;
-}
 
 footer {
     background-color: #003366;
@@ -61,5 +58,8 @@ footer {
     padding: 10px;
     display: block;
     width: 100%;
+}
 
+a{
+color: #b7962a;
 }
