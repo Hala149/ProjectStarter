@@ -40,15 +40,18 @@ main {
 }
 
 h1 {
-    color: #003366;
+    color: #e8edf1;
     font-size: 2em;
     text-align: center;
 }
 
 p {
-    color: #444444;
+    color: #ede8e8;
     font-size: 1em;
     line-height: 1.8;
+}
+a{
+color: #b7962a;
 }
 
 footer {
@@ -58,4 +61,5 @@ footer {
     padding: 10px;
     display: block;
     width: 100%;
+
 }
